@@ -1,0 +1,20 @@
+{
+	"zombies":{
+		"weak":{
+			"hp":30,
+			"damage":20
+		},
+		"poison_sombie":{
+			"hp":40,
+			"damage":45,
+		},
+		"fat":{
+			"hp":100,
+			"damage":90
+		},
+		"boss":{
+			"hp":900,
+			"damage":30
+		}
+	}
+}

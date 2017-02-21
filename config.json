@@ -1,0 +1,17 @@
+{
+	"weapons":{
+		"AWP":{
+			"damage":125,
+			"count":6
+		},
+		"P250":{
+			"damage":25,
+			"count":15
+		},
+		"граната": {
+			"damage":500,
+			"count":1
+		}
+
+	}
+}
