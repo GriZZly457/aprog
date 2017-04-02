@@ -1,0 +1,32 @@
+h1 {
+	font-family: serif;
+	text-align: left;
+	color: black;
+}
+.biography {
+	color: #1a1a1a;
+	font-size: 25px;
+}
+div {
+	padding-left;
+}
+.text {
+	float:right;
+	margin: 7px 7px 0 7px
+}
+.career {
+	color: #1a1a1a;
+	font-size: 25px;
+}
+.bad {
+	color: #1a1a1a;
+	font-size:25px;
+}
+.link {
+	color: #1a1a1a;
+	font-size:25px;
+}
+.end {
+	color: #1a1a1a;
+	font-size:25px;
+}
